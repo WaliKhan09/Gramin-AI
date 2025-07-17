@@ -35,7 +35,7 @@ Follow these steps to set up the project locally:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/sajidkhnx/Gramin-Ai.git
+   git clone https://github.com/WaliKhan09/Gramin-Ai.git
    ```
 2. Navigate to the project directory:
    ```
@@ -81,8 +81,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, feel free to reach out to the maintainer:
 
-- **Name:** Sajid Khan
-- **Email:** [sajidkhnx.dev07@gmail.com](sajidkhnx.dev07@gmail.com)
+- **Name:** Mohammad Wali Khan
+- **Email:** [walikhanait@gmail.com](walikhanait@gmail.com)
 
 
 ![Screenshot (174)](https://github.com/user-attachments/assets/ebd31f21-7d16-4a62-a1e4-94261a6c6874)
